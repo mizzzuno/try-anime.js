@@ -1,0 +1,14 @@
+#svg-createmotionpath .car {
+  position: absolute;
+  width: 16px;
+  height: 8px;
+  left: -8px;
+  top: -5px;
+  color: #fff;
+  /* 可視化のため背景色（HTML 内インラインと重複しても可）*/
+  background: #ff375f;
+}
+
+#svg-createmotionpath .docs-demo-template .car {
+  display: none;
+}
